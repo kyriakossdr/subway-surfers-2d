@@ -1,9 +1,10 @@
 <h1 align=center>Subway Surfers Like Game</h1>
 
 <p align=center>
-<img width="300" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Subway_Surfers_app_logo.png">
+<img width="180" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Subway_Surfers_app_logo.png">
 </p>
 
+![demo-1](demo-1.png)
 📌 So this idea is inspired by a game I used to play on mobile as teenager, called `Subway Surfers`
 
 <br>
